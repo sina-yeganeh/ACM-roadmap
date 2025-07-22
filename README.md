@@ -1,9 +1,18 @@
 # ACM Roadmap & Resources
-### Fundamental
+
+**Table of content:**
+- [Fundamental](#fundamentals)
+- [Core Concept](#core-concepts)
+- [Data Structure](#data-structure)
+- [Essential Algorithms](#essential-algorithms)
+- [Resources](#resources)
+- [Task Table](#task-table)
+
+### Fundamentals
 - [ ] Advanced C++
 - [ ] Advanced Python
 
-### Core Concept
+### Core Concepts
 - [ ] Time and space complexity
 - [ ] Sorting algorithm:
 	- [ ] Bubble
@@ -41,7 +50,13 @@
 	- [ ] Kruskal
 	- [ ] Prim
 
-### Resource
-- Quera
-- Code Wars
+### Resources
+- [CodeForces](https://codeforces.com/problemset?order=BY_SOLVED_DESC) - *primary website for our problem sets*
+- [Quera](https://quera.org/problemset)
+- CodeWars
 - NeetCode
+
+## Task Table
+| Week | Task | [Ali](https://github.com/opaip) | [Negar](https://github.com/Negar-Erfani) | [Sina](https://github.com/sina-yeganeh) |
+|------|------|-----|-------|------|
+|Week1 | Personal review and solve the 20 first questions of codeforces | - [ ] | - [ ] | - [ ] |
