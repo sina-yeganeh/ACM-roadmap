@@ -59,4 +59,4 @@
 ## Task Table
 | Week | Task | [Ali](https://github.com/opaip) | [Negar](https://github.com/Negar-Erfani) | [Sina](https://github.com/sina-yeganeh) |
 |------|------|-----|-------|------|
-|Week1 | Personal review and solve the 20 first questions of codeforces | - [ ] | - [ ] | - [ ] |
+|Week1 | Personal review and solve the 20 first questions of codeforces | :x: | :x: | :x: |
