@@ -45,7 +45,7 @@
 - [ ] Graph Algorithm:
 	- [ ] Dijkstra
 	- [ ] Bellman-Ford
-	- [ ] Floyd-Warshall
+	- [ ] Floyd-Warshall 
 - [ ] Minimum Spanning Tree
 	- [ ] Kruskal
 	- [ ] Prim
@@ -59,4 +59,5 @@
 ## Task Table
 | Week | Task | [Ali](https://github.com/opaip) | [Negar](https://github.com/Negar-Erfani) | [Sina](https://github.com/sina-yeganeh) |
 |------|------|-----|-------|------|
-|Week1 | Personal review and solve the 20 first questions of codeforces | :x: | :x: | :x: |
+| 1 | Personal review and solve the 20 first questions of codeforces | :x: | :x: | :x: |
+| 2 | Time and space complexity + Bubble + Selection + CPP compiler +10 related problem | :x: | :x: | :x: |
