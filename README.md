@@ -56,8 +56,8 @@
 - CodeWars
 - NeetCode
 
-## Task Table
-| Week | Task | [Ali](https://github.com/opaip) | [Negar](https://github.com/Negar-Erfani) | [Sina](https://github.com/sina-yeganeh) |
+## Tasks Table
+| Week | Tasks | [Ali](https://github.com/opaip) | [Negar](https://github.com/Negar-Erfani) | [Sina](https://github.com/sina-yeganeh) |
 |------|------|-----|-------|------|
-| 1 | Personal review and solve the 20 first questions of codeforces | :x: | :x: | :x: |
+| 1 | Personal review and solve the 20 first questions of codeforces | :x: | :x: | :white_check_mark: |
 | 2 | Time and space complexity + Bubble + Selection + CPP compiler +10 related problem | :x: | :x: | :x: |
