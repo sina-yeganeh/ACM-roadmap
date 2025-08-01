@@ -57,8 +57,8 @@
 - NeetCode
 
 ## Tasks Table
-| Week | Tasks | [Ali](https://github.com/opaip) | [Negar](https://github.com/Negar-Erfani) | [Sina](https://github.com/sina-yeganeh) |
-|------|------|-----|-------|------|
-| 1 | Personal review and solve the 20 first questions of codeforces | :white_check_mark: | :x: | :white_check_mark: |
-| 2 | Time and space complexity, bubble and selection sort, CPP compiler + 10 related problem | :white_check_mark: | :x: | :white_check_mark: |
-| 3 | Merge and insertion sort, binary search, stack and queue, greedy algorithm + 10 related problem (upper than 1000) | :x: | :x: | :x: |
+| Week | Tasks | [Ali](https://github.com/opaip) | [Negar](https://github.com/Negar-Erfani) | [Sina](https://github.com/sina-yeganeh) | [Avesta](https://github.com/AvestA858) | Amir
+|------|------|-----|-----|------|-----|-----|
+| 1 | Personal review and solve the 20 first questions of codeforces | :white_check_mark: | :x: | :white_check_mark: | :x: | :x: |
+| 2 | Time and space complexity, bubble and selection sort, CPP compiler + 10 related problem | :white_check_mark: | :x: | :white_check_mark: | :x: | :x:
+| 3 | Merge and insertion sort, binary search, stack and queue, greedy algorithm + 10 related problem (upper than 1000) | :x: | :x: | :x: | :x: | :x: |
