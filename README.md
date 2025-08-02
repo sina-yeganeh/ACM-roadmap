@@ -57,7 +57,7 @@
 - NeetCode
 
 ## Tasks Table
-| Week | Tasks | [Ali](https://github.com/opaip) | [Negar](https://github.com/Negar-Erfani) | [Sina](https://github.com/sina-yeganeh) | [Avesta](https://github.com/AvestA858) | Amir |
+| Week | Tasks | [Ali](https://github.com/opaip) | [Negar](https://github.com/Negar-Erfani) | [Sina](https://github.com/sina-yeganeh) | [Avesta](https://github.com/AvestA858) | [Amir](https://github.com/AmirHaghiy) |
 |------|------|-----|-----|------|-----|-----|
 | 1 | Personal review and solve the 20 first questions of codeforces | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :x: |
 | 2 | Time and space complexity, bubble and selection sort, CPP compiler + 10 related problem | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :x:
