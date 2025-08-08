@@ -20,9 +20,9 @@
 	- [ ] Insertion
 	- [ ] Merge
 	- [ ] Quick
-- [ ] Searching:
-	- [ ] Linear 
-	- [ ] Binary Search
+- [x] Searching:
+	- [x] Linear 
+	- [x] Binary Search
 - [ ] Recursion for classic problem
 
 ### Data Structure
@@ -40,7 +40,7 @@
 - [ ] Backtracking (e.g. N-Queens, Sudoku Solver)
 - [ ] Dynamic Programming
 - [ ] Sliding Windows & Two Pointer
-- [ ] Greedy Algorithm
+- [x] Greedy Algorithm
 - [ ] Bit Manipulation 
 - [ ] Graph Algorithm:
 	- [ ] Dijkstra
@@ -62,3 +62,4 @@
 | 1 | Personal review and solve the 20 first questions of codeforces | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :x: |
 | 2 | Time and space complexity, bubble and selection sort, CPP compiler + 10 related problem | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :x:
 | 3 | Merge and insertion sort, binary search, stack and queue, greedy algorithm + 10 related problem (upper than 1000) | :x: | :x: | :x: | :x: | :x: |
+| 4 | Greedy(continu), dynamic programming, trees + 4~6 problem(upper 1200) | :x: | :x: | :x: | :x: | :x: |
