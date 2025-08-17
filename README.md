@@ -61,5 +61,6 @@
 |------|------|-----|-----|------|-----|-----|
 | 1 | Personal review and solve the 20 first questions of codeforces | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :x: |
 | 2 | Time and space complexity, bubble and selection sort, CPP compiler + 10 related problem | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :x:
-| 3 | Merge and insertion sort, binary search, stack and queue, greedy algorithm + 10 related problem (upper than 1000) | :x: | :x: | :x: | :x: | :x: |
+| 3 | Merge and insertion sort, binary search, stack and queue, greedy algorithm + 10 related problem (upper than 1000) | :white_check_mark: | :x: | :x: | :x: | :x: |
 | 4 | Greedy(continu), dynamic programming, trees + 4~6 problem(upper 1200) | :x: | :x: | :x: | :x: | :x: |
+| 5 | Freestyle | - | - | - | - | - |
